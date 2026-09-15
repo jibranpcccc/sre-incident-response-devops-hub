@@ -4,10 +4,17 @@
     <title>DevOps SRE &amp; Incident Response Hub</title>
     <link>https://sre-incident-response-devops-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 10:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:04:24 GMT</lastBuildDate>
     <atom:link href="https://sre-incident-response-devops-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: r/cybersecurity Defense Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/cybersecurity/</link>
+      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-reddit-20260915-1-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:04:24 GMT</pubDate>
+      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Primary community for enterprise security analysts, blue teams, compliance frameworks, and threat intelligence.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20260914-1-2026-09-14</guid>
