@@ -4,10 +4,17 @@
     <title>DevOps SRE &amp; Incident Response Hub</title>
     <link>https://sre-incident-response-devops-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:06:46 GMT</lastBuildDate>
     <atom:link href="https://sre-incident-response-devops-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                            <item>
+                                <item>
+      <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
+      <link>https://www.reddit.com/r/bugbounty/</link>
+      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-reddit-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:06:46 GMT</pubDate>
+      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Tips, methodologies, writeups, and bounty program discussions for HackerOne and Bugcrowd researchers.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/ethicalhacking Community (Reddit)</title>
       <link>https://www.reddit.com/r/ethicalhacking/</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-reddit-20260919-1-2026-09-19</guid>
