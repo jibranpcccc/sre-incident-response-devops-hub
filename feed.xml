@@ -4,10 +4,17 @@
     <title>DevOps SRE &amp; Incident Response Hub</title>
     <link>https://sre-incident-response-devops-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 06:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:04:42 GMT</lastBuildDate>
     <atom:link href="https://sre-incident-response-devops-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                    <item>
+                                                        <item>
+      <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
+      <link>https://forum.hackthebox.com</link>
+      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20260927-1-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 06:04:42 GMT</pubDate>
+      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Vibrant discussion boards for hints on retired machines, certification advice, and offensive tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: 0x00sec Hacking Community (Forum)</title>
       <link>https://0x00sec.org</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20260925-1-2026-09-25</guid>
