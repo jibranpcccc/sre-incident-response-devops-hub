@@ -4,10 +4,17 @@
     <title>DevOps SRE &amp; Incident Response Hub</title>
     <link>https://sre-incident-response-devops-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:05:03 GMT</lastBuildDate>
     <atom:link href="https://sre-incident-response-devops-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                <item>
+                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20261006-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:05:03 GMT</pubDate>
+      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20261006-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:04:44 GMT</pubDate>
       <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
-      <link>https://t.me/infosec_alerts</link>
-      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-telegram-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:04:35 GMT</pubDate>
-      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
     </item>
   </channel>
 </rss>
