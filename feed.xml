@@ -4,10 +4,17 @@
     <title>DevOps SRE &amp; Incident Response Hub</title>
     <link>https://sre-incident-response-devops-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:50:16 GMT</lastBuildDate>
     <atom:link href="https://sre-incident-response-devops-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                    <item>
+                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20261006-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:50:16 GMT</pubDate>
+      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20261006-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:04:42 GMT</pubDate>
       <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Vibrant discussion boards for hints on retired machines, certification advice, and offensive tooling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: 0x00sec Hacking Community (Forum)</title>
-      <link>https://0x00sec.org</link>
-      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:04:44 GMT</pubDate>
-      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
     </item>
   </channel>
 </rss>
