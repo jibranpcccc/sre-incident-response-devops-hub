@@ -4,10 +4,17 @@
     <title>DevOps SRE &amp; Incident Response Hub</title>
     <link>https://sre-incident-response-devops-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:24:04 GMT</lastBuildDate>
     <atom:link href="https://sre-incident-response-devops-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#devops-sre-incident-response-hub-telegram-8-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:24:04 GMT</pubDate>
+      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#devops-sre-incident-response-hub-telegram-7-2026-11-24</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20261006-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:50:16 GMT</pubDate>
-      <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://sre-incident-response-devops-hub.netlify.app/#sre-incident-response-devops-hub-forum-20261006-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:05:03 GMT</pubDate>
       <description>Newly verified community added to DevOps SRE &amp; Incident Response Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
